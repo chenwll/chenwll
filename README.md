@@ -18,7 +18,7 @@
 
 <p align='left'>
 
-[![掘金主页](https://stats.justsong.cn/api/juejin?id=149971265135181&theme=onedark)](https://juejin.cn/user/149971265135181/posts)
+[![掘金主页](https://stats.justsong.cn/api/juejin?id=149971265135181&theme=radical)](https://juejin.cn/user/149971265135181/posts)
 [![掘金主页](https://github-readme-stats.vercel.app/api?username=chenwll&show_icons=true&theme=radical)](https://github.com/chenwll)
 
 </p>
