@@ -16,18 +16,12 @@
 </p>
 
 
-<p align='left'>
+<p align='left' style='display:flex'>
 
 [![掘金主页](https://stats.justsong.cn/api/juejin?id=149971265135181&theme=radical)](https://juejin.cn/user/149971265135181/posts)
-[![掘金主页](https://github-readme-stats.vercel.app/api?username=chenwll&show_icons=true&theme=radical)](https://github.com/chenwll)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=chenwll&show_icons=true&theme=radical)](https://github.com/chenwll)
 
 </p>
-
-欢迎关注我的微信公众号
-<p dir='auto'>
-<img src='./assets/wechat.png' width="50%">
-</p>
-
 <tr>
 <td>
 
@@ -43,7 +37,12 @@
 </td>
 </tr>
 
-<tr><td>
+<br />
+
+欢迎关注我的微信公众号
+<p dir='auto'>
+<img src='./assets/wechat.png' width="50%">
+</p>
 
 
 
