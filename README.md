@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<div align="center"> <img src="https://stats.justsong.cn/api/juejin?id=149971265135181"> </div>
+
 <!--
 **chenwll/chenwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
